@@ -41,6 +41,18 @@ body {
 	padding:0;
 }
 
+a {
+	text-decoration: none;
+	color:#4f5d8f;
+    border-bottom: 1px dotted #4f5d8f;
+}
+
+a:hover {
+	text-decoration: none;
+	color:#121b27;
+    border-bottom: 1px solid #121b27;
+}
+
 ul { list-style: none; }
 
 .top {
